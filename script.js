@@ -278,7 +278,7 @@ Please note that you will lose any active goodybag, remaining airtime credit and
     addFooter: true,
     content: `Credit is different from goodybags.
 
-Goodybags are prepaid allowances that last for one calendar month, whereas credit is Pay As You Go which means amounts are deducted from your balance as you use the network at the rates shown here: https://giffgaff.com/pricing
+Goodybags are prepaid allowances that last for one calendar month, whereas credit is Pay As You Go which means amounts are deducted from your balance as you use the network at the rates shown here: https://mrjeeves.page.link/payg
 
 Often, members accidentally buy credit top-ups instead of goodybags. This is quite common.
 
