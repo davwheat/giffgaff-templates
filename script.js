@@ -1,6 +1,6 @@
 const footer = `If you still need help, make sure you click the **Reply** button next to my message so I get notified about your message.
 
-Happy New Year,
+Thanks,
 David`;
 
 const templates = [{
