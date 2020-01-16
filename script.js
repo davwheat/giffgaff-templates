@@ -66,11 +66,11 @@ If you have no service or data and/or calls are not working, try waiting until t
 
 If it still doesn't work, you should contact an agent.
 
-You can contact a giffgaff agent at this link: https://mrjeeves.page.link/agent-number-transfer-problems
+You can contact a giffgaff agent at this link: https://support2.giffgaff.com/app/ask/Number-transfers/Partial-or-no-service-after-transfer/form
 
 Agents always aim to respond within 24 hours (in some busy periods it can take up to 48 hours). It usually only takes 3-5 hours. Agents work everyday between 8 am and 11 pm.
 
-When you get a response, you will receive a text and email alert telling you. You can view the response either from the bottom of your giffgaff dashboard, or by clicking this link: https://mrjeeves.page.link/responses`
+When you get a response, you will receive a text and email alert telling you. You can view the response either from the bottom of your giffgaff dashboard, or by clicking this link: https://www.giffgaff.com/support/questions`
   },
   {
     title: "APN Settings",
@@ -108,13 +108,13 @@ Enter the APN values shown below. Please note that some fields may not be shown 
     addFooter: true,
     content: `To bar your phone and SIM, follow these instructions:
 
-1. Please go to this URL: https://mrjeeves.page.link/lost
+1. Please go to this URL: https://www.giffgaff.com/support/lost
 2. Select 'Bar my phone & SIM'. (This prevents anyone using your SIM. It also prevents your phone from being used on any UK Network and being sold.)
 3. Choose 'Bar my phone & SIM' again. (This will send you a new SIM via 1st Class Post to use in a new phone of your choice. It should arrive within 1-3 working days.)
 
 This will also suspend you giffgaff account to prevent unauthorised charges. This suspension is lifted once you activate the replacement SIM on your account. THIS SIM IS THE ONLY WAY TO REACTIVATE YOUR NUMBER!
 
-If you find your phone again, you'll need to contact a giffgaff agent to get the device bar removed here (it can take a few days): https://mrjeeves.page.link/agent-imei-bar`
+If you find your phone again, you'll need to contact a giffgaff agent to get the device bar removed here (it can take a few days): https://support2.giffgaff.com/app/ask/My-account/Place-or-remove-an-IMEI-bar/form`
   },
   {
     title: "SIM Swap",
@@ -124,8 +124,8 @@ If you find your phone again, you'll need to contact a giffgaff agent to get the
 SIM Swap can only be completed between 4:30 AM and 9:30 PM.
 
 You just need any unactivated giffgaff SIM. You can get one from:
-a) a link in a member's signature
-b) this link: https://mrjeeves.page.link/free-sim
+a) a member's affiliate link (click my name at the top of this post)
+b) this link: https://www.giffgaff.com/orders/mgm
 c) your local Tesco, Asda, Co-Op, etc. for a SIM for under £1
 
 Options 'a' and 'b' involve having a SIM sent to your house via 1st Class Post. It should arrive within 1-3 working days.
@@ -134,7 +134,7 @@ The SIM Swap process itself can take up to 24 hours to complete but usually only
 
 ### You do not need to make a payment to perform a SIM Swap. If you get to a top-up step, [color=red]*STOP*[/color]. Make sure you are logged into your current giffgaff account which is linked to your current number.
 
-See this guide for more info: https://mrjeeves.page.link/guide-sim-swap`
+See this guide for more info: https://www.giffgaff.com/help/articles/my-sim-is-broken`
   },
   {
     title: "Return Phone",
@@ -143,8 +143,8 @@ See this guide for more info: https://mrjeeves.page.link/guide-sim-swap`
 
 To see how...
 
-See this link for faulty device: https://mrjeeves.page.link/return-faulty-phone
-Or this link for changing your mind: https://mrjeeves.page.link/return-phone`
+See this link for faulty device: https://www.giffgaff.com/help/articles/return-or-repair-a-faulty-phone
+Or this link for changing your mind: https://www.giffgaff.com/help/articles/changing-your-mind-and-returning-your-phone`
   },
   {
     title: "Phishing",
@@ -159,11 +159,11 @@ For future reference, **all genuine giffgaff URLs will start with either "giffga
 
 Please do not enter any details and, if you have clicked on the link, follow these steps immediately!
 
-1. Change the password to your giffgaff account - https://mrjeeves.page.link/pwd-reset
+1. Change the password to your giffgaff account - https://www.giffgaff.com/support/lost-password
 
-2. Verify all your account details are correct: https://mrjeeves.page.link/acct-details
+2. Verify all your account details are correct: https://www.giffgaff.com/profile/details
 
-3. Let giffgaff know about the possible account compromise via the agents on this link so they can advise you on what to do next (and state if you received a text saying a SIM Swap is about to be performed) - https://mrjeeves.page.link/agent-account-misuse
+3. Let giffgaff know about the possible account compromise via the agents on this link so they can advise you on what to do next (and state if you received a text saying a SIM Swap is about to be performed) - https://support2.giffgaff.com/app/ask/Account-misuse-and-security-issues/Account-misuse-and-security-issues/form/
 
 4. Please forward the message you got to 7726 (spells out SPAM). This is completely free to do.
 
@@ -182,13 +182,13 @@ A giffgaff educator has been alerted to the scam and they will contact you short
     addFooter: true,
     content: `Sorry to hear you're leaving giffgaff.
 
-To get your PAC code, text "PAC" to 65075. You'll get your PAC within a minute. (You can learn more about Text-to-Switch here: https://mrjeeves.page.link/ofcom-text-to-switch)
+To get your PAC code, text "PAC" to 65075. You'll get your PAC within a minute. (You can learn more about Text-to-Switch [here](https://www.ofcom.org.uk/about-ofcom/latest/media/media-releases/2019/end-it-with-a-text-mobile-switching))
 
 You can also dial 43431 (pen and paper in hand!) and follow the prompts to get your PAC code.
 
 Both of these are completely free but will only work in the UK.
 
-You can get your PAC online as well: https://mrjeeves.page.link/get-pac
+You can get your PAC online as well: https://www.giffgaff.com/profile/details/requestpac
 
 Your PAC code will be valid for 30 days. Giffgaff doesn't have any early termination fees like other networks.
 
@@ -196,29 +196,29 @@ Please note that you will lose any active goodybag, remaining airtime credit and
 
 You can also fully close your giffgaff account by contacting an agent. **Do NOT do this is you want to transfer your phone number.** Transferring your number will prevent further charges from giffgaff due to OFCOM's new regulations.
 
-You can contact a giffgaff agent at this link: https://mrjeeves.page.link/agent-cancel-account
+You can contact a giffgaff agent at this link: https://support2.giffgaff.com/app/ask/My-account/Cancelling-my-account/form/
 
 Agents always aim to respond within 24 hours (in some busy periods it can take up to 48 hours). It usually only takes 3-5 hours. Agents work everyday between 8 am and 11 pm.
 
-When you get a response, you will receive a text and email alert telling you. You can view the response either from the bottom of your giffgaff dashboard, or by clicking this link: https://mrjeeves.page.link/responses`
+When you get a response, you will receive a text and email alert telling you. You can view the response either from the bottom of your giffgaff dashboard, or by clicking this link: https://www.giffgaff.com/support/questions`
   },
   {
     title: "Close Account",
     addFooter: true,
     content: `You can fully close your giffgaff account by contacting an agent. Do NOT do this is you want to transfer your phone number. Transferring your number will prevent further charges from giffgaff due to OFCOM's new regulations.
 
-You can contact a giffgaff agent at this link: https://mrjeeves.page.link/agent-cancel-account
+You can contact a giffgaff agent at this link: https://support2.giffgaff.com/app/ask/My-account/Cancelling-my-account/form/
 
 Agents always aim to respond within 24 hours (in some busy periods it can take up to 48 hours). It usually only takes 3-5 hours. Agents work everyday between 8 am and 11 pm.
 
-When you get a response, you will receive a text and email alert telling you. You can view the response either from the bottom of your giffgaff dashboard, or by clicking this link: https://mrjeeves.page.link/responses`
+When you get a response, you will receive a text and email alert telling you. You can view the response either from the bottom of your giffgaff dashboard, or by clicking this link: https://www.giffgaff.com/support/questions`
   },
   {
     title: "Get a new GG number",
     addFooter: true,
     content: `It's easy to get a new number; you don't even have to replace your SIM.
 
-Just head to this page: https://mrjeeves.page.link/change-number
+Just head to this page: https://www.giffgaff.com/profile/details/getnumber
 
 It can take up to 4 hours but is usually quicker.
 
@@ -226,11 +226,11 @@ Note that if you're experiencing issues with premium texts, you can stop them by
 
 You can change your number twice per account. If you want to change it again after that, you have to contact an agent.
 
-You can contact a giffgaff agent at this link: https://mrjeeves.page.link/agent-change-number
+You can contact a giffgaff agent at this link: https://support2.giffgaff.com/app/ask/SIM-and-number/Changing-my-number/form
 
 Agents always aim to respond within 24 hours (in some busy periods it can take up to 48 hours). It usually only takes 3-5 hours. Agents work everyday between 8 am and 11 pm.
 
-When you get a response, you will receive a text and email alert telling you. You can view the response either from the bottom of your giffgaff dashboard, or by clicking this link: https://mrjeeves.page.link/responses`
+When you get a response, you will receive a text and email alert telling you. You can view the response either from the bottom of your giffgaff dashboard, or by clicking this link: https://www.giffgaff.com/support/questions`
   },
   {
     title: "Change phone order",
@@ -239,20 +239,20 @@ When you get a response, you will receive a text and email alert telling you. Yo
 
 You'll have to quickly contact an agent as only they can cancel the order.
 
-You can contact a giffgaff agent at this link: https://mrjeeves.page.link/agent-buying-phone
+You can contact a giffgaff agent at this link: https://support2.giffgaff.com/app/ask/Phones/Buying-a-phone/form
 
 When you get a response (usually within 1-2 hours, but can be up to 24 hours), you should receive a text and email alert telling you. You can view the response either from the bottom of your giffgaff dashboard, or by clicking this link: https://mrjeeves.page.link/responses
 
 If they can't cancel your order, you will have to return it when it arrives.
 
-To see how to return your phone, see this link: https://mrjeeves.page.link/return-faulty-phone`
+To see how to return your phone, see this link: https://www.giffgaff.com/help/articles/return-or-repair-a-faulty-phone`
   },
   {
     title: "Adult Content Block",
     addFooter: true,
     content: `To deactivate the adult content block, you will need either a valid UK (NI drivers licenses don't work) driver's license OR a valid machine-readable Passport.
 
-You can disable the block from your profile settings here: https://mrjeeves.page.link/adult-content`
+You can disable the block from your profile settings here: https://www.giffgaff.com/profile/details#adultcontent`
   },
   {
     title: "Always On £25 goodybag ban",
@@ -267,7 +267,7 @@ You can also dial 43431 (pen and paper in hand!) and follow the prompts to get y
 
 Both of these are completely free but will only work in the UK.
 
-You can get your PAC online as well: https://mrjeeves.page.link/get-pac
+You can get your PAC online as well: https://www.giffgaff.com/profile/details/requestpac
 
 Your PAC code will be valid for 30 days. Giffgaff doesn't have any early termination fees like other networks.
 
@@ -278,7 +278,7 @@ Please note that you will lose any active goodybag, remaining airtime credit and
     addFooter: true,
     content: `Credit is different from goodybags.
 
-Goodybags are prepaid allowances that last for one calendar month, whereas credit is Pay As You Go which means amounts are deducted from your balance as you use the network at the rates shown here: https://mrjeeves.page.link/payg
+Goodybags are prepaid allowances that last for one calendar month, whereas credit is Pay As You Go which means amounts are deducted from your balance as you use the network at the rates shown here: https://www.giffgaff.com/pricing
 
 Often, members accidentally buy credit top-ups instead of goodybags. This is quite common.
 
@@ -294,7 +294,7 @@ If you have joined giffgaff recently and referred someone with an affiliate SIM 
 
 These payback points are calculated every month between the 10th and 20th. Any points you accrue this month will show up next month.
 
-An affiliate SIM means a SIM ordered by you through your ['share the love'](https://mrjeeves.page.link/free-sim) page or a SIM ordered by someone else via your affiliate link.
+An affiliate SIM means a SIM ordered by you through your ['share the love'](https://www.giffgaff.com/orders/mgm) page or a SIM ordered by someone else via your affiliate link.
 
 The points can be seen here: https://giffgaff.com/profile/payback
 
@@ -323,7 +323,7 @@ All of this is stated in the [giffgaff terms and conditions](https://www.giffgaf
 
 Sorry about that.
 
-You can [order another free SIM](https://mrjeeves.page.link/free-sim) and activate it on your giffgaff account if you want to use giffgaff again.`
+You can [order another free SIM](https://www.giffgaff.com/orders/mgm) and activate it on your giffgaff account if you want to use giffgaff again.`
   },
   {
     title: "Start goodybag early",
@@ -341,7 +341,7 @@ By starting your goodybag early, you will lose all remaining allowances.`
   {
     title: "lol u bad no helpline",
     addFooter: true,
-    content: `The fact we don't have a call centre is the reason giffgaff can offer cheaper service than other providers. Instead of a call centre, they pay members to provide support on the [forums](https://community.giffgaff.com/). For account related issues, [agents](https://mrjeeves.page.link/ask) (giffgaff employees) are available to help. Either way, who has time for *phone calls*... it's ${new Date().getFullYear()}!
+    content: `The fact we don't have a call centre is the reason giffgaff can offer cheaper service than other providers. Instead of a call centre, they pay members to provide support on the [forums](https://community.giffgaff.com/). For account related issues, [agents](https://support2.giffgaff.com/app/ask) (giffgaff employees) are available to help. Either way, who has time for *phone calls*... it's ${new Date().getFullYear()}!
 
 You don't have to be part of the mobile network if you don't want to. If you'd rather be with a network that offers a call centre, feel free to join one of the other big players.
 
@@ -360,7 +360,7 @@ You can text the word \`FORGOTTEN\` to \`43430\` to get a password reset link fo
 
 ## Via the website
 
-Head to the [password reset page](https://mrjeeves.page.link/pwd-reset) and choose either **email** or **text**.
+Head to the [password reset page](https://www.giffgaff.com/support/lost-password) and choose either **email** or **text**.
 
 You can either enter your member name or phone number. If you're getting the link sent to your email, you can also enter your email instead.`
   },
@@ -420,11 +420,11 @@ You'll have to switch to use the **cellular** functions of the Watch, but the **
   {
     title: "EU Roam Like At Home",
     addFooter: true,
-    content: `You can spend up to **63 days within a 4 month period in the EU under the Roam Like At Home** (RLAH) policy. Any usage outside of this period is subject to small charges for goodybag users (0.46p/MB for data, 3.2p/minute for calls and 1p/text for texts). Pay As You Go users will still be charged the [normal UK rates](https://mrjeeves.page.link/payg).
+    content: `You can spend up to **63 days within a 4 month period in the EU under the Roam Like At Home** (RLAH) policy. Any usage outside of this period is subject to small charges for goodybag users (0.46p/MB for data, 3.2p/minute for calls and 1p/text for texts). Pay As You Go users will still be charged the [normal UK rates](https://www.giffgaff.com/pricing).
 
 Within this limit, when visiting any country listed at the bottom of this post, network usage (calls, texts, data) will cost exactly the same as when you're at home in the UK. Sweet, right?!
 
-Please note that the Always On (£25) and £20 goodybags will be limited to 20 GB data when roaming in the EU, instead of the "normal" (technically a special offer) 40 GB. This is detailed when you are buying a goodybag, as well as on the [goodybags page](https://mrjeeves.page.link/goodybags) (under [color=#074984]**More info**[/color] on the applicable goodybags). After the 20 GB is up, you'll be charged 0.46p/MB.
+Please note that the Always On (£25) and £20 goodybags will be limited to 20 GB data when roaming in the EU, instead of the "normal" (technically a special offer) 40 GB. This is detailed when you are buying a goodybag, as well as on the [goodybags page](https://www.giffgaff.com/sim-only-plans) (under [color=#074984]**More info**[/color] on the applicable goodybags). After the 20 GB is up, you'll be charged 0.36p/MB (previously 0.46p/MB).
 
 ---
 
@@ -451,7 +451,7 @@ To use giffgaff, you have to have a device either locked to O2, giffgaff or unlo
 
 As your device is locked, you'll need to contact your old network for an unlock code, or take it to a local phone shop.
 
-You can find out how to unlock your phone on the [giffgaff unlockapedia](https://mrjeeves.page.link/unlock). Please note that unlocking your phone via a 3^rd party will [almost certainly void your device's warranty](https://mrjeeves.page.link/unlock-warranty) so, if your device is still covered under warranty and that matters to you, you'll want to contact your previous network to unlock it.`
+You can find out how to unlock your phone on the [giffgaff unlockapedia](https://www.giffgaff.com/unlock/unlocking-quick-start-guide-faq). Please note that unlocking your phone via a 3^rd party will [almost certainly void your device's warranty](https://www.giffgaff.com/unlock/mobile-phone-unlocking-affect-warranty-faq) so, if your device is still covered under warranty and that matters to you, you'll want to contact your previous network to unlock it.`
   }
 ];
 
