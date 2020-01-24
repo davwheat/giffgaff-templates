@@ -106,15 +106,23 @@ Enter the APN values shown below. Please note that some fields may not be shown 
   {
     title: "Lost SIM and Phone",
     addFooter: true,
-    content: `To bar your phone and SIM, follow these instructions:
+    content: `#### Follow these instructions. Do not follow any suggestions to perform a SIM Swap instead.
+
+_Performing a SIM Swap won't prevent your device being used on other UK networks,nor will it prevent it being sold, so I strongly recommend against this method._
+
+First, try locating your phone via [Find My iPhone](https://www.icloud.com/#find) or [Android's Find My Device](https://www.google.com/search?q=find+my+device). You can securely lock your device via the respective links, as well as locate, or ring them.
+
+Afterwards, you'll want to report your SIM and Phone as lost or stolen. This prevents them being used on any UK Network, as well as stops them being sold to phone recycling companies. This will also suspend your giffgaff account to prevent unauthorised charges.
+
+**To bar your phone and SIM, follow these instructions:**
 
 1. Please go to this URL: https://www.giffgaff.com/support/lost
 2. Select 'Bar my phone & SIM'. (This prevents anyone using your SIM. It also prevents your phone from being used on any UK Network and being sold.)
 3. Choose 'Bar my phone & SIM' again. (This will send you a new SIM via 1st Class Post to use in a new phone of your choice. It should arrive within 1-3 working days.)
 
-This will also suspend you giffgaff account to prevent unauthorised charges. This suspension is lifted once you activate the replacement SIM on your account. THIS SIM IS THE ONLY WAY TO REACTIVATE YOUR NUMBER!
+If you find your phone again, you'll need to contact a giffgaff agent to get the device bar removed here (it can take a few days): https://support2.giffgaff.com/app/ask/My-account/Place-or-remove-an-IMEI-bar/form
 
-If you find your phone again, you'll need to contact a giffgaff agent to get the device bar removed here (it can take a few days): https://support2.giffgaff.com/app/ask/My-account/Place-or-remove-an-IMEI-bar/form`
+After barring your phone, you'll have a replacement SIM sent to your address. Until you receive this, it will look like you haven't activated a SIM on your dashboard. Follow the instructions inside the replacement SIM packaging to reactivate your account and phone number.`
   },
   {
     title: "SIM Swap",
