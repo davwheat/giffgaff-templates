@@ -108,7 +108,7 @@ Enter the APN values shown below. Please note that some fields may not be shown 
     addFooter: true,
     content: `#### Follow these instructions. Do not follow any suggestions to perform a SIM Swap instead.
 
-_Performing a SIM Swap won't prevent your device being used on other UK networks,nor will it prevent it being sold, so I strongly recommend against this method._
+_Performing a SIM Swap won't prevent your device being used on other UK networks, nor will it prevent it being sold, so I strongly recommend against this method._
 
 First, try locating your phone via [Find My iPhone](https://www.icloud.com/#find) or [Android's Find My Device](https://www.google.com/search?q=find+my+device). You can securely lock your device via the respective links, as well as locate, or ring them.
 
