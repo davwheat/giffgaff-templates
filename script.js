@@ -198,7 +198,7 @@ Both of these are completely free but will only work in the UK.
 
 You can get your PAC online as well: https://www.giffgaff.com/profile/details/requestpac
 
-Your PAC code will be valid for 30 days. Giffgaff doesn't have any early termination fees like other networks.
+Your PAC code will be valid for 30 days. giffgaff doesn't have any early termination fees like other networks.
 
 Please note that you will lose any active goodybag, remaining airtime credit and any payback points you've got.
 
@@ -277,7 +277,7 @@ Both of these are completely free but will only work in the UK.
 
 You can get your PAC online as well: https://www.giffgaff.com/profile/details/requestpac
 
-Your PAC code will be valid for 30 days. Giffgaff doesn't have any early termination fees like other networks.
+Your PAC code will be valid for 30 days. giffgaff doesn't have any early termination fees like other networks.
 
 Please note that you will lose any active goodybag, remaining airtime credit and any payback points you've got.`
   },
@@ -339,6 +339,8 @@ You can [order another free SIM](https://www.giffgaff.com/orders/mgm) and activa
     content: `It's only possible to start a goodybag early if you have under 100 minutes or 100 MB data left in your current goodybag.
 
 You can check your remaining allowances on your [dashboard](https://www.giffgaff.com/dashboard).
+
+**You can still access the giffgaff website if you have no data.**
 
 To start your goodybag early, click the 'Start my next goodybag now' button under the [color=red]**Running low**[/color] banner.
 
