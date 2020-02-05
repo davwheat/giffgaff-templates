@@ -97,7 +97,7 @@ Enter the APN values shown below. Please note that some fields may not be shown 
 | MMS port | \`8080\` |
 | MCC | \`234\` |
 | MNC | \`10\` |
-| Authentication Type | \`PAP\` (or \`CHAP\`) |
+| Authentication Type | \`PAP or CHAP\` |
 | APN type | \`default,mms,ia,xcap\` |
 | APN protocol | \`IPv4\` |
 | APN roaming protocol | \`IPv4\` |
